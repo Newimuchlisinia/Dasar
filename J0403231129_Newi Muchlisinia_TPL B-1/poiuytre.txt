@@ -1,0 +1,3 @@
+Which built-in data structure type would be most suited for storing information that should not change?
+Which built-in data structure type that does not allow duplicate values?
+Which built-in data structure is an ordered collection of elements, where each element can be accessed using an index?
